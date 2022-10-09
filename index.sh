@@ -27,3 +27,5 @@ braches=$(get_branches)
 echo ""
 echo "Choose a $(git_color_text "command"):"
 command=$(gum choose rebase delete update)
+
+# hi :)
